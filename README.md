@@ -4,7 +4,7 @@
 
 Neste projeto demonstro as habilidades que desenvolvi através, dos cursos da Fundação Bradesco.
 
-#Techs
+# Techs
 
 Confome desenvolvemos o projeto, atualizar quais tecnologias estamos utilizando.
 
