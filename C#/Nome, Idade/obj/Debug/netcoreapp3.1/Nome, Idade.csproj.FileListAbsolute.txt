@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\bin\Debug\netcoreapp3.1\Nome, Idade.exe
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\bin\Debug\netcoreapp3.1\Nome, Idade.deps.json
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\bin\Debug\netcoreapp3.1\Nome, Idade.runtimeconfig.json
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\bin\Debug\netcoreapp3.1\Nome, Idade.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\bin\Debug\netcoreapp3.1\Nome, Idade.dll
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\bin\Debug\netcoreapp3.1\Nome, Idade.pdb
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.dll
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.pdb
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Nome, Idade\obj\Debug\netcoreapp3.1\Nome, Idade.genruntimeconfig.cache

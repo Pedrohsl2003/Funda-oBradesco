@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\bin\Debug\netcoreapp3.1\Operadores Relacionais.exe
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\bin\Debug\netcoreapp3.1\Operadores Relacionais.deps.json
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\bin\Debug\netcoreapp3.1\Operadores Relacionais.runtimeconfig.json
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\bin\Debug\netcoreapp3.1\Operadores Relacionais.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\bin\Debug\netcoreapp3.1\Operadores Relacionais.dll
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\bin\Debug\netcoreapp3.1\Operadores Relacionais.pdb
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.dll
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.pdb
+C:\Users\Administrator\Desktop\FORMATADOR\Curso\BRADESCO\C#\Operadores Relacionais\obj\Debug\netcoreapp3.1\Operadores Relacionais.genruntimeconfig.cache
